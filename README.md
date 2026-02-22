@@ -5,3 +5,8 @@ Calculator GUI
 
 <img width="651" height="448" alt="calculator gui" src="https://github.com/user-attachments/assets/750a10df-3e93-441d-bf9d-ed9b9b084c06" />
 
+Operations in Calculator
+
+<img width="653" height="444" alt="calculator add" src="https://github.com/user-attachments/assets/94d6a659-9b98-4f84-bab3-f17ebed687a6" />
+
+
