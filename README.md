@@ -9,4 +9,7 @@ Operations in Calculator
 
 <img width="653" height="444" alt="calculator add" src="https://github.com/user-attachments/assets/94d6a659-9b98-4f84-bab3-f17ebed687a6" />
 
+<img width="651" height="444" alt="calculator sub" src="https://github.com/user-attachments/assets/849d28e8-5254-4e4c-9f47-49d48b911785" />
+
+
 
